@@ -1,3 +1,6 @@
+#Programmer: Trey Ottaway
+
+
 def cellular_automaton(string, pattern, generations):
     i = 0
     l = len(string)
